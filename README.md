@@ -5,6 +5,7 @@
 **Project Grade** - A+ <br>
 
 **Architecture** - <br>
+
 ![lenet](https://user-images.githubusercontent.com/25856691/104082977-9cdedf80-5208-11eb-9c4e-8238887295d3.png)
 
 **Description** - <br>
@@ -17,10 +18,12 @@ CIFAR-10 dataset & FDDB Face dataset
 6. Performed Course search followed by Fine search to get the best hyperparameter values for learning rate & regularization.
 
 **Implementation** - <br>
+
 LeNet_Pytorch.ipynb is extensive jupyter notebook with all comments and cell outputs to replicate & visualize the working effectively.<br>
 Google Colab GPU was used for training and monitoring the entire babysitting process.<br>
 
 **Dataset** - <br>
+
 1. CIFAR-10 <br>
 ![cifar10](https://user-images.githubusercontent.com/25856691/104082906-0b6f6d80-5208-11eb-8d02-ae1d1083de41.png)
 
