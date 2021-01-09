@@ -1,8 +1,8 @@
 # ECE763 LeNet ConvNet
 
-Subject - ECE 763 Computer Vision
-Project Name - Babysitting the Convonlutional Neural Network (CNN)
-Project Grade - A+
+Subject - ECE 763 Computer Vision <br>
+Project Name - Babysitting the Convonlutional Neural Network (CNN) <br>
+Project Grade - A+ <br>
 
 Keypoints -
 1. Implemented LeNet CNN architecture using PyTorch Library in Python for classification problem.
