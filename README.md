@@ -4,10 +4,10 @@
 **Project Name** - Babysitting the Convonlutional Neural Network (CNN) <br>
 **Project Grade** - A+ <br>
 
-**Architecture**
+**Architecture** - <br>
 ![lenet](https://user-images.githubusercontent.com/25856691/104082977-9cdedf80-5208-11eb-9c4e-8238887295d3.png)
 
-**Description** -
+**Description** - <br>
 1. Implemented LeNet CNN architecture using PyTorch Library in Python for classification problem.
 2. Performed Data Augmentation in form of horizontal, vertical flip, gamma correction (color jitter/brightness), resizing to images from 
 CIFAR-10 dataset & FDDB Face dataset
@@ -16,11 +16,11 @@ CIFAR-10 dataset & FDDB Face dataset
 5. Studied effect of ADAM & SGD optimizer on the CNN output.
 6. Performed Course search followed by Fine search to get the best hyperparameter values for learning rate & regularization.
 
-**Implementation**
-LeNet_Pytorch.ipynb is extensive jupyter notebook with all comments and cell outputs to replicate & visualize the working effectively.
-Google Colab GPU was used for training and monitoring the entire babysitting process.
+**Implementation** - <br>
+LeNet_Pytorch.ipynb is extensive jupyter notebook with all comments and cell outputs to replicate & visualize the working effectively.<br>
+Google Colab GPU was used for training and monitoring the entire babysitting process.<br>
 
-**Dataset**
+**Dataset** - <br>
 1. CIFAR-10 <br>
 ![cifar10](https://user-images.githubusercontent.com/25856691/104082906-0b6f6d80-5208-11eb-8d02-ae1d1083de41.png)
 
