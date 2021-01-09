@@ -5,7 +5,7 @@
 **Project Grade** - A+ <br>
 
 **Architecture**
-![LeNet](https://www.google.com/url?sa=i&url=https%3A%2F%2Fengmrk.com%2Flenet-5-a-classic-cnn-architecture%2F&psig=AOvVaw36hh73t2aLS_1UaB5PkzJg&ust=1610252063436000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDqwMX-je4CFQAAAAAdAAAAABAP)
+![lenet](https://user-images.githubusercontent.com/25856691/104082977-9cdedf80-5208-11eb-9c4e-8238887295d3.png)
 
 **Description** -
 1. Implemented LeNet CNN architecture using PyTorch Library in Python for classification problem.
